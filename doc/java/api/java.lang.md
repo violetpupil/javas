@@ -1,11 +1,5 @@
 # [java.lang](https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/lang/package-summary.html)
 
-## Classes
-
-`Object` root of the class hierarchy
-
 ## Exception Classes
 
-`Exception` 异常
-
-`Throwable` superclass of all errors and exceptions
+`RuntimeException` 自定义异常继承运行时异常
