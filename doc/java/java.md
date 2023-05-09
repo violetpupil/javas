@@ -1,4 +1,6 @@
-# [java](https://dev.java/)
+# [java](https://www.oracle.com/java/)
+
+[下载](https://www.oracle.com/java/technologies/)
 
 [文档](https://docs.oracle.com/en/java/javase/20/)
 
