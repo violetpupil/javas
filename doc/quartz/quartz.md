@@ -8,10 +8,16 @@
 
 ### Interface
 
+`Job` 工作类接口
+
+`JobDetail` Conveys the detail properties of a given Job instance.
+
 `Scheduler` 调度器
 
 `Trigger` 触发器
 
 ### Class
 
-`TriggerBuilder` TriggerBuilder is used to instantiate Triggers.
+`JobBuilder` 实例化JobDetail
+
+`TriggerBuilder` 实例化Trigger
