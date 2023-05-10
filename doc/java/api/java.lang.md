@@ -3,3 +3,5 @@
 ## Exception Classes
 
 `RuntimeException` 自定义异常继承运行时异常
+
+`Throwable` superclass of all errors and exceptions
