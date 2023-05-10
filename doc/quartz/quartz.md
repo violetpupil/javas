@@ -9,3 +9,9 @@
 ### Interface
 
 `Scheduler` 调度器
+
+`Trigger` 触发器
+
+### Class
+
+`TriggerBuilder` TriggerBuilder is used to instantiate Triggers.
