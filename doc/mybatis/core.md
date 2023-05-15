@@ -6,6 +6,14 @@
 
 eq() 等于
 
+## mapper
+
+### BaseMapper
+
+exists() 判断是否存在记录
+
+insert() 插入一条记录
+
 ## toolkit
 
 ### Wrappers
