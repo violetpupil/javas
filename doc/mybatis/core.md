@@ -1,21 +1,15 @@
 # [core](https://www.javadoc.io/doc/com.baomidou/mybatis-plus-core/latest/index.html)
 
-## conditions
+## mapper crud操作包
 
-### AbstractWrapper
-
-eq() 等于
-
-## mapper
-
-### BaseMapper
+### BaseMapper crud操作接口
 
 exists() 判断是否存在记录
 
 insert() 插入一条记录
 
-## toolkit
+## toolkit 工具包
 
-### Wrappers
+### Wrappers 获取Wrapper
 
-lambdaQuery() 构造查询语句
+lambdaQuery() 获取LambdaQueryWrapper
