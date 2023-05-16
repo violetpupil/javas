@@ -7,3 +7,5 @@
 `org.springframework.beans.factory.annotation` Support package for annotation-driven bean configuration.
 
 `org.springframework.context` 上下文包
+
+`org.springframework.stereotype` 角色注解
