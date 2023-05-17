@@ -9,3 +9,5 @@
 `org.springframework.context` 上下文包
 
 `org.springframework.stereotype` 角色注解
+
+`org.springframework.web.bind.annotation` 请求绑定注解
