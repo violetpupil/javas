@@ -2,6 +2,6 @@
 
 ## [kotlin.io](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/)
 
-print()
+print() 打印单个对象
 
-println()
+println() 打印单个对象并换行
