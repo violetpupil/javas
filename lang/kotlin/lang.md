@@ -28,6 +28,7 @@ println("There are ${customers + 1} customers")
 ```kotlin
 // val声明只读变量，var声明读写变量
 val e: String = "hello"
+val shapes: MutableList<String> = mutableListOf("triangle", "square", "circle")
 // 类型推断
 val customers = 10
 // 先声明后初始化
