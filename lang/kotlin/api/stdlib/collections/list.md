@@ -13,6 +13,10 @@ println("circle" in readOnlyShapes)
 
 count() list长度
 
+filter() 过滤元素
+
 first() Returns the first element.
 
 last() Returns the last element.
+
+map() 处理元素，并返回list
