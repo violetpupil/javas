@@ -36,3 +36,15 @@ val customers = 10
 val d: Int
 d = 3
 ```
+
+## range
+
+1..4 is equivalent to 1, 2, 3, 4
+
+1 until 4 is equivalent to 1, 2, 3
+
+4 downTo 1 is equivalent to 4, 3, 2, 1
+
+1..5 step 2 is equivalent to 1, 3, 5
+
+'a'..'d' is equivalent to 'a', 'b', 'c', 'd'

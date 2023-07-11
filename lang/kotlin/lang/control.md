@@ -32,3 +32,26 @@ val description = when {
     else -> "hot"             
 }
 ```
+
+## Loops
+
+```kotlin
+for (number in 1..5) { 
+    print(number)
+}
+```
+
+```kotlin
+var cakesEaten = 0
+var cakesBaked = 0
+// 先判断再执行
+while (cakesEaten < 3) {
+    println("Eat a cake")
+    cakesEaten++
+}
+// 先执行再判断
+do {
+    println("Bake a cake")
+    cakesBaked++
+} while (cakesBaked < cakesEaten)
+```
