@@ -29,6 +29,7 @@ println("There are ${customers + 1} customers")
 // val声明只读变量，var声明读写变量
 val e: String = "hello"
 val shapes: MutableList<String> = mutableListOf("triangle", "square", "circle")
+val accountBalances: MutableMap<Int, Int> = mutableMapOf(1 to 100, 2 to 100, 3 to 100)
 // 类型推断
 val customers = 10
 // 先声明后初始化
