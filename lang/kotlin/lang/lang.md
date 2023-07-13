@@ -48,3 +48,17 @@ d = 3
 1..5 step 2 is equivalent to 1, 3, 5
 
 'a'..'d' is equivalent to 'a', 'b', 'c', 'd'
+
+## Null safety
+
+```kotlin
+// s has nullable String type
+var s: String? = null
+// safe call operator ?.
+// 如果s为null，s?.length返回null
+println(s?.length)
+// 如果s为null，s?.uppercase()返回null
+println(s?.uppercase())
+// 默认值
+println(s?.length ?: 0)
+```
