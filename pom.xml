@@ -18,7 +18,7 @@
 	<name>javas</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 		<spring-cloud.version>2022.0.2</spring-cloud.version>
 	</properties>
 
