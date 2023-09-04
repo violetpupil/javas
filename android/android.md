@@ -13,4 +13,6 @@ The Android operating system is a multi-user Linux system in which each app is a
 - app
   - src
     - main
+      - java 组件
+      - res app资源
       - AndroidManifest.xml app清单
