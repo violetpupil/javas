@@ -7,3 +7,10 @@
 [参考](https://developer.android.com/reference)
 
 The Android operating system is a multi-user Linux system in which each app is a different user.
+
+## 目录结构
+
+- app
+  - src
+    - main
+      - AndroidManifest.xml app清单
