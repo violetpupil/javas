@@ -1,5 +1,9 @@
 # [studio](https://developer.android.com/studio)
 
+[文档](https://developer.android.com/studio/intro)
+
+[build](https://developer.android.com/build)
+
 ## [tools](https://developer.android.com/tools)
 
 [logcat](https://developer.android.com/tools/logcat)

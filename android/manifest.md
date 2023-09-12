@@ -1,5 +1,7 @@
 # [manifest](https://developer.android.com/guide/topics/manifest/manifest-intro)
 
+每个安卓项目必须有app/src/main/AndroidManifest.xml
+
 ## [application](https://developer.android.com/guide/topics/manifest/application-element)
 
 android:icon 应用图标
