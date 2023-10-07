@@ -1,10 +1,14 @@
 # [java](https://www.oracle.com/java/)
 
-[下载](https://www.oracle.com/java/technologies/)
-
 [文档](https://docs.oracle.com/en/java/javase/20/)
 
 [教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
+
+## [安装](https://www.oracle.com/java/technologies/)
+
+安装 java17 只创建 C:\Program Files\Java\jdk-17
+
+安装 java8 创建 C:\Program Files\Java\jdk-1.8 C:\Program Files\Java\jre-1.8
 
 ```batch
 : windows临时设置JAVA_HOME环境变量
