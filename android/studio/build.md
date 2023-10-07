@@ -1,5 +1,5 @@
 # [build](https://developer.android.com/build)
 
-## Gradle JDK 设置
+## [Java versions in Android builds](https://developer.android.com/build/jdks)
 
-File -> Project Structure -> SDK Location -> Gradle Settings -> Gradle JDK
+File -> Settings > Build, Execution, Deployment > Build Tools > Gradle -> Gradle JDK
