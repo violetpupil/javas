@@ -7,5 +7,8 @@
 [教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 ```batch
-set JAVA_HOME=C:\Program Files\Java\jdk-17
+: windows临时设置JAVA_HOME环境变量
+set JAVA_HOME=C:\Program Files\Java\jdk-1.8
+: windows永久设置JAVA_HOME环境变量
+setx JAVA_HOME "C:\Program Files\Java\jdk-1.8"
 ```
