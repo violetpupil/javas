@@ -16,7 +16,3 @@ The Android operating system is a multi-user Linux system in which each app is a
       - java 组件
       - res app资源
       - AndroidManifest.xml app清单
-
-## 第三方工具
-
-[scrcpy](https://github.com/Genymobile/scrcpy)
