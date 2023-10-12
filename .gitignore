@@ -1,2 +1,4 @@
 # 临时文件
 tmp*
+# windows可执行文件
+*.exe
