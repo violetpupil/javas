@@ -2,6 +2,10 @@
 
 [Maven Wrapper](https://maven.apache.org/wrapper/)
 
+## [Repository](https://central.sonatype.com/)
+
+[API文档](https://www.javadoc.io/)
+
 ## 项目结构
 
 - pom.xml 项目描述文件
@@ -21,7 +25,3 @@
 `--quiet` 简化输出
 
 `-X` 输出调试信息
-
-## [Repository](https://central.sonatype.com/)
-
-[API文档](https://www.javadoc.io/)
