@@ -3,6 +3,8 @@
 ## [java](https://docs.oracle.com/en/java/javase/20/docs/specs/man/java.html)
 
 ```bash
+# java 版本
+java -version
 # To launch a class file
 java mainclass
 # To launch the main class in a JAR file
