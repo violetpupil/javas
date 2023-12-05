@@ -2,6 +2,11 @@
 
 [Maven Wrapper](https://maven.apache.org/wrapper/)
 
+```bash
+# 重新打包
+mvn clean package
+```
+
 ## [Repository](https://central.sonatype.com/)
 
 [API文档](https://www.javadoc.io/)
