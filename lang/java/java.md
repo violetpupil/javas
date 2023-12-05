@@ -4,6 +4,25 @@
 
 [教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
+## JVM & JRE & JDK
+
+Java Virtual Machine
+
+Java Runtime Environment
+
+Java Development Kit
+
+```image
+ ┌─    ┌──────────────────────────────────┐
+ │     │     Compiler, debugger, etc.     │
+ │     └──────────────────────────────────┘
+JDK ┌─ ┌──────────────────────────────────┐
+ │  │  │                                  │
+ │ JRE │      JVM + Runtime Library       │
+ │  │  │                                  │
+ └─ └─ └──────────────────────────────────┘
+```
+
 ## [安装](https://www.oracle.com/java/technologies/)
 
 安装 java17 只创建 C:\Program Files\Java\jdk-17
