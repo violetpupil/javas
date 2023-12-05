@@ -2,3 +2,5 @@
 tmp*
 # windows可执行文件
 *.exe
+# maven 编译打包生成文件
+target
