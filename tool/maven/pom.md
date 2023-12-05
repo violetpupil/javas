@@ -1,4 +1,4 @@
-# [pom](https://maven.apache.org/pom.html)
+# [pom](https://maven.apache.org/pom.html) Project Object Model
 
 ## packaging
 
