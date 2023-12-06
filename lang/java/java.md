@@ -35,3 +35,11 @@ set JAVA_HOME=C:\Program Files\Java\jdk-1.8
 : windows永久设置JAVA_HOME环境变量
 setx JAVA_HOME "C:\Program Files\Java\jdk-1.8"
 ```
+
+## jar
+
+打包所有 .class 文件的 zip 压缩包
+
+jar包还可以包含一个特殊的/META-INF/MANIFEST.MF文件
+
+`Main-Class: Hello` 指定主类
