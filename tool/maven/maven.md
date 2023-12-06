@@ -1,7 +1,5 @@
 # [Maven](https://maven.apache.org/)
 
-[Maven Wrapper](https://maven.apache.org/wrapper/)
-
 [Repository](https://central.sonatype.com/)
 
 [第三方库 API](https://www.javadoc.io/)
@@ -20,3 +18,9 @@ mvn clean package
 `--quiet` 简化输出
 
 `-X` 输出调试信息
+
+## [Maven Wrapper](https://maven.apache.org/wrapper/)
+
+项目使用独立的 Maven，使用命令 mvnw
+
+生成 mvnw mvnw.cmd .mvn
