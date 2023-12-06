@@ -15,3 +15,7 @@ Maven的生命周期由一系列阶段（phase）构成
 - `compile` 编译类文件
 - `test` 运行测试
 - `package` 打包
+
+## [Plugins](https://maven.apache.org/plugins/index.html)
+
+[maven-jar-plugin](https://maven.apache.org/plugins/maven-jar-plugin/)

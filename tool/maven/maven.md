@@ -2,14 +2,14 @@
 
 [Maven Wrapper](https://maven.apache.org/wrapper/)
 
+[Repository](https://central.sonatype.com/)
+
+[第三方库 API](https://www.javadoc.io/)
+
 ```bash
 # 重新打包
 mvn clean package
 ```
-
-## [Repository](https://central.sonatype.com/)
-
-[API文档](https://www.javadoc.io/)
 
 ## mvn
 

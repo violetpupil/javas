@@ -40,6 +40,6 @@ setx JAVA_HOME "C:\Program Files\Java\jdk-1.8"
 
 本质是 zip 压缩包
 
-jar 包还可以包含一个特殊的 /META-INF/MANIFEST.MF 文件
+### META-INF/MANIFEST.MF
 
-`Main-Class: Hello` 指定主类
+`Main-Class: Class` 指定主类
