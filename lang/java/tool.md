@@ -7,6 +7,8 @@
 java -version
 # To launch a class file
 java mainclass
+# 指定类路径
+java -cp classpath mainclass
 # To launch the main class in a JAR file
 java -jar jarfile
 # To launch a single source-file program
