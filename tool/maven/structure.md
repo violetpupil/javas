@@ -34,6 +34,8 @@
     <groupId>com.instafever.demos</groupId>
     <artifactId>parent</artifactId>
     <version>1.0.0</version>
+    <!-- 可以不指定路径 -->
+    <!-- maven 会自动搜索本地和远程仓库 -->
     <relativePath>../parent/pom.xml</relativePath>
 </parent>
 

@@ -10,6 +10,8 @@
 ```
 
 ```xml
+<!-- The Basics -->
+
 <groupId>com.instafever</groupId>
 <artifactId>javas</artifactId>
 <!-- 版本 -->
@@ -37,6 +39,8 @@
 ```
 
 ```xml
+<!-- Build Settings -->
+
 <!-- 构建插件配置 -->
 <build>
     <plugins>
@@ -55,4 +59,13 @@
         </plugin>
     </plugins>
 </build>
+```
+
+```xml
+<!-- More Project Information -->
+
+<!-- 项目名 -->
+<name></name>
+<!-- 项目简述 -->
+<description></description>
 ```
