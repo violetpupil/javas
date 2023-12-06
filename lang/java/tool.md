@@ -8,7 +8,10 @@ java -version
 # To launch a class file
 java mainclass
 # 指定类路径 默认为当前目录 .
-# classpath 可以是 .class 文件目录，jar文件路径
+# 类路径可以是
+# .class 文件目录
+# jar 文件路径
+# 指定多个类路径
 # windows path;path
 # linux path:path
 java -cp classpath mainclass
