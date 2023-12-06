@@ -7,7 +7,9 @@
 java -version
 # To launch a class file
 java mainclass
-# 指定类路径
+# 指定类路径 默认为当前目录 .
+# windows path;path
+# linux path:path
 java -cp classpath mainclass
 # To launch the main class in a JAR file
 java -jar jarfile
