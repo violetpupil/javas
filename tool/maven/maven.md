@@ -11,16 +11,6 @@ mvn clean package
 
 [API文档](https://www.javadoc.io/)
 
-## 项目结构
-
-- pom.xml 项目描述文件
-- src
-  - main
-    - java 程序代码
-  - test
-    - java 测试代码
-- target 编译打包生成文件
-
 ## mvn
 
 `-version` 版本

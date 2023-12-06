@@ -4,6 +4,8 @@
 <!-- 版本 -->
 <!-- 开发版本以 -SNAPSHOT 结尾 -->
 <version>1.0.0</version>
+<!-- When no packaging is declared, Maven assumes the packaging is the default: jar. -->
+<packaging>jar</packaging>
 
 <!-- 声明依赖 -->
 <!-- 缓存目录 $HOME/.m2 -->
@@ -16,7 +18,3 @@
     </dependency>
 </dependencies>
 ```
-
-## packaging
-
-When no packaging is declared, Maven assumes the packaging is the default: jar.
