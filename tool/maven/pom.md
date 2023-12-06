@@ -34,6 +34,8 @@
         <groupId></groupId>
         <artifactId></artifactId>
         <version></version>
+        <!-- 依赖范围，默认为 compile 编译时需要 -->
+        <scope>test</scope>
     </dependency>
 </dependencies>
 ```
