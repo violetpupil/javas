@@ -38,7 +38,7 @@ setx JAVA_HOME "C:\Program Files\Java\jdk-1.8"
 
 ## jar
 
-打包所有 .class 文件的 zip 压缩包
+本质是 zip 压缩包
 
 jar 包还可以包含一个特殊的 /META-INF/MANIFEST.MF 文件
 
